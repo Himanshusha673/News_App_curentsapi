@@ -220,11 +220,11 @@ class _HomeScreenState extends State<HomeScreen> {
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(8),
           boxShadow: const [
-            BoxShadow(
-              color: Colors.black12,
-              offset: Offset(0, 2),
-              blurRadius: 4,
-            ),
+            // BoxShadow(
+            //   color: Colors.black12,
+            //   offset: Offset(0, 2),
+            //   blurRadius: 4,
+            // ),
           ],
         ),
         padding: const EdgeInsets.all(12),
